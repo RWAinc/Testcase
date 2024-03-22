@@ -7,16 +7,12 @@
  *
  * @title RWA
  *
- * @notice This is a smart contract developed by Revoluzion for RWA.
+ * @notice This is a smart contract developed by Revoluzion Ecosystem for RWA.
  *
  * @dev This smart contract was developed based on the general
  * OpenZeppelin Contracts guidelines where functions revert instead of
  * returning `false` on failure.
  *
- * @author Revoluzion Ecosystem
- * @custom:email support@revoluzion.io
- * @custom:website https://revoluzion.io
- * @custom:dapp https://revoluzion.app
  */
 
 // SPDX-License-Identifier: MIT
